@@ -17,7 +17,7 @@
 <header style="background-color:#ADD8E6">
     <div class="header_bar">
         <div id="main_screen_logo">
-            <a href="https://telugupuzzles.com"><img src="images/logo.png" alt="10000 Icon" style="height:80px;width:auto;"></a>
+            <a href="https://telugupuzzles.com"><img src="images/logo.png" alt="10000 Icon" style="height:5rem;width:10vw;"></a>
         </div>
         <div id="admin_access">
             <ul id="admin_profile">
